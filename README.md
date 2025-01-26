@@ -12,8 +12,7 @@ This repository contains data and visualizations for analyzing IPL (Indian Premi
 
 ## Visualizations
 
-![image1](images/teamimage.png)  
-![image2](images/teamimage2.png)  
+![image1](images/teamimage.png)   
 ![image3](images/tossimage.png)  
 ![image4](images/playerimage.png)  
 ![image5](images/stadiumimage2.png)  
